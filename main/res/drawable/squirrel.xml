@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/squirrel1" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel2" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel3" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel4" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel5" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel6" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel7" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel8" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel9" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel10" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel11" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel12" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel13" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel14" android:duration="90"/>
+    <item android:drawable="@drawable/squirrel15" android:duration="90"/>
+</animation-list>
